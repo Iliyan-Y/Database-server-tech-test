@@ -1,2 +1,3 @@
 class Inputs
+  
 end
