@@ -9,5 +9,9 @@ class ServerTest < Sinatra::Base
     'HELOOO SET PAGE'
   end
 
+  get '/get' do
+    'somevalue'
+  end
+
 
 end
