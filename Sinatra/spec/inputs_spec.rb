@@ -6,4 +6,5 @@ describe Inputs do
     db_values  = Inputs.new
     expect(db_values).to be_an_instance_of(Inputs)
   end
+
 end
